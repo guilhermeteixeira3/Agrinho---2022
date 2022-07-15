@@ -1,0 +1,13 @@
+Agrinho 2022
+Projeto: Coleta Seletiva.
+Nome do Criador: Guilherme Miroel Teixeira.
+Nome da Professora: Valéria de Fátima da Silva.
+Colégio: Estadual Cívico-Militar Barão de Capanema.
+Cidade: Prudentópolis-PR
+
+Objetivo do jogo: ensinar crianças, adolescentes e adultos a importância de separar os resíduos orgânicos dos recicláveis, de forma divertida e descontraída.
+
+Instruções: Clique no botão play para iniciar, assim que o jogo começar, use as setas direita e esquerda do teclado para movimentar a lixeira orgânica, recolha com esta lixeira os resíduos orgânicos: osso, miolo de maçã, casca de banana e espinha de peixe, na parte superior estarão dois placares, o verde indica os acertos e o vermelho os erros, deixar os resíduos recicláveis seguirem para suas lixeiras, o jogador vence o jogo quando chegar a 50 acertos, porém perderá o jogo se cometer 10 erros a qualquer momento do jogo, aperte espaço para pausar e enter para continuar o jogo, para rodar o código clique no botão rodar no canto superior esquerdo, e para parar clique no botão pare ao lado. Divirta-se!!
+
+Referências: Imagens livres de direitos autorais: google.com;
+Sons livres de direitos autorais: www.youtube.com.br;

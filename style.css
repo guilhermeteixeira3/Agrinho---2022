@@ -1,0 +1,16 @@
+html, body {
+    margin: 10;
+    padding: 10;
+  }
+  canvas {
+  display: block;
+  float: left;
+
+  }
+  
+  .texto-principal{
+    display: table-cell;
+    width: 50%;
+    max-width: 800px;
+    line-height: 1.5;
+  }
